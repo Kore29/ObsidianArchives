@@ -1,0 +1,78 @@
+*******APRENDIZAJE DE LIBRERIAS PYTHON*******
+--> Pynput (pip install pynput)		https://programacionpython80889555.wordpress.com/2022/12/01/detectar-pulsaciones-de-teclado-en-python-con-pynput/
+
+--> Pyautogui (pip install pyautogui)	https://recursospython.com/guias-y-manuales/pyautogui/
+      		 MORE INFO (KEYS) 	https://ciksiti.com/es/chapters/1203-gui-automation-using-pyautogui-python--linux-hint
+
+--> Shutil y Os (pip install shutil) 	https://recursospython.com/guias-y-manuales/os-shutil-archivos-carpetas/
+		 CONTROL DE FICHEROS	https://programacion.net/articulo/operaciones_con_ficheros_y_directorios_utilizando_python_1461
+    		 MADE HIDE FOLDERS 	https://es.stackoverflow.com/questions/528591/c%C3%B3mo-crear-carpetas-ocultas-en-python 
+
+--> Pyinstaller (pip install pyinstaller) https://programacionpython80889555.wordpress.com/2019/03/12/creacion-de-ejecutables-en-python-con-pyinstaller/
+	"pyinstaller -–windowed -–onefile -–icon=IMAGEN.ico SCRIPT.py"
+
+--> Tkinter (pip install tkinter)	https://recursospython.com/guias-y-manuales/caja-de-texto-entry-tkinter/
+
+--> Pygame (pip install pygame)	 	https://parzibyte.me/blog/2020/10/31/reproducir-sonido-python-pygame/
+
+*Creación de MINECRAFT en python en 5min*
+	https://www.youtube.com/watch?v=7oNBi03gx1g
+
+**BASE DE DATOS MySQL, Tkinter y PY**
+PART1 	https://www.youtube.com/watch?v=4Zp5MZ15XeE&list=RDCMUCuV5NtZ7-jbmbmbrziDnH_w&start_radio=1&rv=4Zp5MZ15XeE&t=0
+PART2 	https://www.youtube.com/watch?v=y901N_Wo-5o&list=RDCMUCuV5NtZ7-jbmbmbrziDnH_w&index=2
+PART3 	https://www.youtube.com/watch?v=CzkIqbFiPVI&list=RDCMUCuV5NtZ7-jbmbmbrziDnH_w&index=8
+PART4 	https://www.youtube.com/watch?v=Ub7Z4xSBAu4&list=RDCMUCuV5NtZ7-jbmbmbrziDnH_w&index=4
+PART5 	https://www.youtube.com/watch?v=rWRt62fJOSI&list=RDCMUCuV5NtZ7-jbmbmbrziDnH_w&index=3
+
+**PRIMERA APP ANDROID Studio, Kotlin**
+*PRINCIPIANTES* https://www.youtube.com/watch?v=BQaxPwZWboA&t=710s
+
+
+******CURSOS******
+*KOTLIN PRINCIPIANTES* "2h30m" https://www.youtube.com/watch?v=ebQphhLpJG0
+        *MEDIO* "90m" https://www.youtube.com/watch?v=AA3N_yQQtHY
+
+*PYTHON PRINCIPANTES to AVANZADO* "8h" https://www.youtube.com/watch?v=nKPbfIU442g&t=20047s
+
+
+**APUNTES SOBRE IA, REDES NEURONALES, ADQUIRIR INFORMACIÓN**
+
+*Páginas sobre  librerias y codigos:*
+*Speech_Recognition (pip install Speech_Recognition) ---> https://github.com/Uberi/speech_recognition
+							 https://stackoverflow.com/questions/43720729/how-do-i-control-when-to-stop-the-audio-input
+---> Pyttsx3 (pip install pyttswx3) https://github.com/nateshmbhat/pyttsx3
+
+
+
+**REDES NEURONALES. Lista de videos de aprendizaje sobre REDES NEURONALES, creaciones en Google Colab**
+*Primera red neuronal en Python y TensorFlow* 		
+	https://www.youtube.com/watch?v=iX_on3VxZzk&t=208s
+
+*Tu primer clasificador de imágenes con Python y Tensorflow* 
+	https://www.youtube.com/watch?v=j6eGHROLKP8
+
+*Redes Neuronales Convolucionales - Clasificación avanzada de imágenes con IA / ML (CNN)* 
+	https://www.youtube.com/watch?v=4sWhhQwHqug
+
+*Crea un clasificador de perros y gatos con IA, Python y Tensorflow - Proyecto completo* 
+	https://www.youtube.com/watch?v=DbwKbsCWPSg
+
+*¿Pocos datos de entrenamiento? Prueba esta técnica* 
+	https://www.youtube.com/watch?v=9Dur_oUMGG8
+
+
+
+**CHATBOT y ASISTENTES DE VOZ**
+*Contruir un CHATBOT DE VOZ! (Tutorial Python)* 	
+	https://www.youtube.com/watch?v=yZWfMwoMlF0
+
+*Explicacion de creacion de super chatbot 	
+	https://www.youtube.com/watch?v=PZ4x5BgTvZM&t=525s
+
+*ASISTENTE VIRTUAL POR VOZ[chatbot con voz en 15 minutos](parte inicial facil, final compleja)* 
+	https://www.youtube.com/watch?v=yvb-FmRFcoA&t=553s
+
+*Lista de reproduccion de creación de un chatbot básico. MUY UTIL E IMPORTANTE* 7 VIDEOS
+	https://youtube.com/playlist?list=PLK4s7ZFj70fTFaWsZkLOwQg7eO4XDG0NA
+
