@@ -10,7 +10,6 @@ print("Hola" in bienvenida_simple)
 ```
 
 En todos los casos las variables se podrán modificar, cambiar y eliminar dependiendo de nuestro criterio
-
 ```python
 nombre = "Marti"
 # Decidimos cambiar 

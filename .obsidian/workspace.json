@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "cd0870a3b4604169",
+    "type": "split",
+    "children": [
+      {
+        "id": "d02c8e7a4b1fb8d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "895df8ea96ef05d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80b2e996f81bae22",
+    "type": "split",
+    "children": [
+      {
+        "id": "188fb02f73784d19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c243ee95089e0355",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f50d5f64ef7f628",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47b3453b97f94f98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5
+  },
+  "right": {
+    "id": "36c282cfdcfa1a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "70d84350bd6949aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53d4b423c25369a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e38c3cca0463eeef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d737cb4022c22f98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a091230234ac0d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "895df8ea96ef05d9",
+  "lastOpenFiles": [
+    "Obsidian Archives/Exercices - Projects/Python/Problema - Sorteo Aleatorio de Participantes.md",
+    "Obsidian Archives/Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
+    "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
+    "Obsidian Archives/Conocimiento/Python/Estructuras de datos/Datos Compuestos.md",
+    "Obsidian Archives/Conocimiento/Python/Control de flujo/Bucles/For.md",
+    "Obsidian Archives/Conocimiento/Python/Tipos de datos básicos/Variables.md",
+    "Obsidian Archives/Conocimiento/Html/Concepto Basicos.md",
+    "Obsidian Archives/Conocimiento/Html/Strong.md",
+    "Obsidian Archives/Conocimiento/Python/Control de flujo/Sentencias condicionales/Comparaciones.md",
+    "Obsidian Archives/Conocimiento/Python/Excepciones",
+    "Obsidian Archives/Conocimiento/Python/Control de flujo/Control de flujo complementario",
+    "Obsidian Archives/Conocimiento/Python/Control de flujo/Sentencias condicionales/If, Elif y Else.md",
+    "Obsidian Archives/Conocimiento/Python/Control de flujo/Bucles/While.md",
+    "Obsidian Archives/Conocimiento/Python/Tipos de datos básicos/Propiedades.md",
+    "Obsidian Archives/Conocimiento/Blender/Menu Bar/Layout.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Obsidian Archives/Conocimiento/Python/Modulos y paquetes",
+    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Crear Funciones.md",
+    "Obsidian Archives/Conocimiento/Python/Other/Gestión de Ficheros/With open().md",
+    "Obsidian Archives/Conocimiento/Python/Control de flujo",
+    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Otras Funciones.md",
+    "Obsidian Archives/Conocimiento/Python/Estructuras de datos",
+    "Obsidian Archives/Conocimiento/Python/Tipos Datos Básicos/Untitled",
+    "Obsidian Archives/Conocimiento/Python/Tipos de datos básicos",
+    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Definición.md",
+    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Funciones Datos Extras.md",
+    "Obsidian Archives/Conocimiento/Blender/Interfaz.md",
+    "Obsidian Archives/Conocimiento/Blender/Important Keys.md",
+    "Obsidian Archives/Conocimiento/Blender/Menu Bar/UV Editing.md",
+    "Obsidian Archives/Conocimiento/Blender/Menu Bar/Shaiding.md",
+    "Obsidian Archives/Conocimiento/Blender/Menu Bar/Sculpting.md",
+    "Obsidian Archives/Conocimiento/Blender/Menu Bar/Modeling.md",
+    "Obsidian Archives/Conocimiento/BluePrints  C++/Origin.md",
+    "Obsidian Archives/Conocimiento/Python/Other/API/Librería VirusTotal Apis.md",
+    "Obsidian Archives/Material/ListasFunciones.png",
+    "Obsidian Archives/Material/tuplas.png",
+    "Obsidian Archives/Conocimiento/BluePrints  C++"
+  ]
+}

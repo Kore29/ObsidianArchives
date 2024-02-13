@@ -1,3 +1,4 @@
+
 El bucle `for` es extremadamente versátil y puede utilizarse para recorrer diferentes tipos de datos y estructuras. Aquí hay algunos conceptos y ejemplos adicionales:
 #### Recorrer Rangos
 

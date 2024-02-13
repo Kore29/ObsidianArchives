@@ -52,3 +52,72 @@ numeros_pares = filter(lambda numero: numero % 2 == 0, numeros)
 ```
 
 Esto logra el mismo resultado que el ejemplo anterior utilizando una función lambda en lugar de una función definida con `def`.
+
+#### Funciones Datos Compuestos
+
+Tanto las listas como las tuplas son tipos de datos en Python que se utilizan para almacenar colecciones ordenadas de elementos
+
+- *Funciones generales*
+``len() Devuelve el número de elementos (pares clave-valor) en el diccionario.
+
+``dict() Constructor de diccionarios. Puede crear un diccionario vacío o convertir otros tipos de datos en diccionarios.
+
+``sorted() Devuelve una lista de las claves del diccionario ordenadas.
+
+##### Listas
+
+```python
+# Crear una lista
+mi_lista = [1, 2, 3, 4, 5]
+```
+
+Te da el numero en concreto del máximo de números o elementos que hay en la lista.
+```python
+longitud = len(mi_lista)
+print("Longitud de la lista:", longitud)
+```
+![[ListasFunciones.png]]
+
+Añadir desde la ultima posición algo a la lista. (Como un nombre o un numero)
+```python
+mi_lista.append(6)
+print("Lista después de agregar un elemento:", mi_lista)
+```
+
+Lo mismo pero en una posición especifica, en vez de en el final. El primer número es la posición y el segundo lo que quieres poner.
+```python
+mi_lista.insert(2, "Maria")
+print("Lista después de insertar un elemento en la posición 2:", mi_lista)
+```
+
+Eliminar lo que hay dentro de la lista en la posición designada.
+```python
+mi_lista.remove(3)
+print("Lista después de eliminar el elemento con valor 3:", mi_lista)
+```
+
+Ordena de mayor a menor, si es numéricamente de menor a mayor, y si son letras de forma alfabética. 
+```python
+mi_lista_ordenada = sorted(mi_lista)
+print("Lista ordenada:", mi_lista_ordenada)
+```
+
+##### Tuplas
+
+```python
+mi_tupla = (1, 2, 3, 4, 5)
+```
+
+```python
+# Contar el número de veces que aparece un elemento
+apariciones = mi_tupla.count(3)
+print("Número de veces que aparece el 3 en la tupla:", apariciones)
+```
+
+```python
+# Obtener el índice de la primera aparición de un elemento
+indice = mi_tupla.index(4)
+print("Índice de la primera aparición del 4:", indice)
+```
+
+##### Diccionarios
