@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conocimiento/Python/Funciones/Crear Funciones.md",
+                "file": "Exercices - Projects/Python/Problema - Contador de Palabras.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 299.5
   },
   "right": {
     "id": "f45923cbe6567528",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conocimiento/Python/Funciones/Crear Funciones.md",
+                "file": "Exercices - Projects/Python/Problema - Contador de Palabras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conocimiento/Python/Funciones/Crear Funciones.md",
+                "file": "Exercices - Projects/Python/Problema - Contador de Palabras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conocimiento/Python/Funciones/Crear Funciones.md"
+                "file": "Exercices - Projects/Python/Problema - Contador de Palabras.md"
               }
             }
           },
@@ -150,22 +150,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian42-brat:BRAT": false
     }
   },
   "active": "23c31ae1f2330d9e",
   "lastOpenFiles": [
-    "Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
-    "Exercices - Projects/HTML",
     "Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
-    "Exercices - Projects/Python",
+    "Exercices - Projects/Python/Problema - Contador de Palabras.md",
+    "Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
+    "Exercices - Projects/Python/Problema -.md",
     "Exercices - Projects/Python/Problema - Sorteo Aleatorio de Participantes.md",
+    "Conocimiento/Python/Funciones y modularidad/Definición.md",
+    "Conocimiento/Python/Funciones y modularidad/Funciones Datos Extras.md",
+    "Conocimiento/Python/Funciones y modularidad/Otras Funciones.md",
+    "Conocimiento/Python/Programación orientada a objetos/Basico.md",
+    "Conocimiento/Python/Funciones y modularidad/Crear Funciones.md",
+    "Conocimiento/Python/Estructuras de datos/Datos Compuestos.md",
+    "Conocimiento/Python/Control de flujo/Sentencias condicionales.md",
+    "Conocimiento/Python/Control de flujo/Controles de Flujo Complementarios.md",
+    "Conocimiento/Python/Control de flujo/Bucles.md",
+    "Conocimiento/Python/Control de flujo/Sentencias condicionales/Comparaciones.md",
+    "Conocimiento/Python/Control de flujo/Bucles/For.md",
+    "Conocimiento/Html/Strong.md",
+    "Exercices - Projects/HTML",
+    "Exercices - Projects/Python",
     "Material/Output For.png",
     "Conocimiento/Python/Generico/Conceptos Básicos/Datos Compuestos.md",
     "Conocimiento/Python/Generico/Conceptos Básicos/Variables.md",
@@ -176,22 +190,9 @@
     "Conocimiento/Python/Funciones/Funciones Datos Extras.md",
     "Conocimiento/Python/Funciones/Otras Funciones.md",
     "Conocimiento/Python/Funciones/Stock.md",
-    "Conocimiento/Python/Funciones/Definición.md",
-    "Conocimiento/Python/Funciones/Crear Funciones.md",
     "Material/barra de menu.png",
     "Material/barra de tareas.png",
-    "Conocimiento/Python/Other/POO/Metodos.md",
-    "Projects - Exercices/Untitled.md",
     "Exercices - Projects",
-    "Conocimiento/Python/Other/POO/Herencia.md",
-    "Conocimiento/Python/Other/POO/Clases.md",
-    "Conocimiento/Python/Other/POO/Basico.md",
-    "Conocimiento/Python/Other/Hacking Python/Web Scrapping.md",
-    "Conocimiento/Python/Other/Hacking Python/Base64 - Encriptar un Script de Python con Base64.md",
-    "Conocimiento/Python/Other/Hacking Python/Automatizar Netcat con Python en Windows.md",
-    "Conocimiento/Python/Other/Hacking Python/Ataque Fuerza Bruta FTP con Python.md",
-    "Conocimiento/Python/Other/Hacking Python/Libreria PWN/Conectarse a un Servidor con Pwn.md",
-    "Conocimiento/Python/Other/Ayuda/Dejá de usar if else como junior..md",
     "Material/grumpy2.png",
     "Material/grumpy.png",
     "Material/ForDesempaquetar.png",

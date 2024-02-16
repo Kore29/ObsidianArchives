@@ -1,4 +1,4 @@
-Problema: Estás desarrollando un programa para una tienda de comestibles que necesita calcular el precio total de los productos comprados por un cliente. El programa debe permitir al usuario ingresar el nombre y el precio de cada producto, así como la cantidad comprada. Luego, debe calcular y mostrar el precio total de la compra, incluyendo impuestos.
+Estás desarrollando un programa para una tienda de comestibles que necesita calcular el precio total de los productos comprados por un cliente. El programa debe permitir al usuario ingresar el nombre y el precio de cada producto, así como la cantidad comprada. Luego, debe calcular y mostrar el precio total de la compra, incluyendo impuestos.
 
 Escribe un programa en Python que realice lo siguiente:
 
