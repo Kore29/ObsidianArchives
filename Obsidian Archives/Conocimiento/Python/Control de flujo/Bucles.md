@@ -1,4 +1,5 @@
 ### 1. Bucle While
+#ControlDeFlujo 
 #### 1.1. `While junto una condición
 
 El bucle `while` se ejecuta mientras una condición dada sea verdadera. Aquí hay un ejemplo básico que cuenta hasta 5
@@ -126,3 +127,4 @@ else:
 ```
 
 Esto imprimirá cada número en la lista y luego imprimirá "Fin del bucle".
+

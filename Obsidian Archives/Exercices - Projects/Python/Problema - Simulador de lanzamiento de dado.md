@@ -1,3 +1,4 @@
+#ExercicesPython
 Escribe un programa en Python que simule el lanzamiento de un dado de seis caras. El programa debe realizar lo siguiente:
 
 1. Preguntar al usuario cuántas veces desea lanzar el dado.

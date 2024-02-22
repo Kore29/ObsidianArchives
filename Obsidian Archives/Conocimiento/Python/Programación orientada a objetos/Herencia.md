@@ -1,3 +1,4 @@
+#ProgramaciónOrientadaAObjetos
 Digamos que tenemos 2 clases, una es el padre y el potro el hijo.
 Para conservar los datos del padre al hijo se utiliza herencia, *un ejemplo:*
 ```python

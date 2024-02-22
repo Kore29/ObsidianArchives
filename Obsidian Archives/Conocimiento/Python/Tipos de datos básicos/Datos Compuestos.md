@@ -1,3 +1,4 @@
+#TiposDeDatosBasicos
 Los datos compuestos como bien dice su nombre son tipos de datos generados en "paquetes" que se pueden asignar en diferentes tipos de conjuntos
 ### Listas
 En este caso tenemos una lista, la lista sirve para poder modificar los datos.
@@ -18,7 +19,7 @@ print(tuplas[3])
 ```python
 tuplas[1] = "Marcos"
 ```
-![[tuplas.png]]
+![[ErrorTuplas.png]]
 ### Set
 Un set, y al igual que una **tupla**, no se puede modificar ni enseñar el interior, pero si el **conjunto**.
 ```python

@@ -1,4 +1,5 @@
-Una variable es un nombre que se utiliza para almacenar datos en la memoria del programa. Estos datos pueden ser de diversos tipos, como números, cadenas de texto, listas, objetos u otros valores.
+#TiposDeDatosBasicos
+En Python una variable es un nombre que se utiliza para almacenar datos en la memoria del programa. Estos datos pueden ser de diversos tipos, como números, cadenas de texto, listas, objetos u otros valores.
 ```python
 nombre = "Martí"
 bienvenida_simple = f"Hola {nombre} ¿Como estas?"

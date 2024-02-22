@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d02c8e7a4b1fb8d9",
+        "id": "7405e530ff96df04",
         "type": "tabs",
         "children": [
           {
-            "id": "895df8ea96ef05d9",
+            "id": "79f87433196da09e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
+                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
+                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
+                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md"
+                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,45 +147,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "895df8ea96ef05d9",
+  "active": "79f87433196da09e",
   "lastOpenFiles": [
     "Obsidian Archives/Exercices - Projects/Python/Problema - Sorteo Aleatorio de Participantes.md",
     "Obsidian Archives/Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
-    "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
-    "Obsidian Archives/Conocimiento/Python/Estructuras de datos/Datos Compuestos.md",
-    "Obsidian Archives/Conocimiento/Python/Control de flujo/Bucles/For.md",
-    "Obsidian Archives/Conocimiento/Python/Tipos de datos básicos/Variables.md",
+    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Stock.md",
+    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Funciones Datos Extras.md",
+    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Crear Funciones.md",
+    "Obsidian Archives/Conocimiento/Python/Control de flujo/Sentencias condicionales.md",
+    "Obsidian Archives/Conocimiento/Python/Control de flujo/Controles de Flujo Complementarios.md",
+    "Obsidian Archives/Conocimiento/Python/Control de flujo/Bucles.md",
+    "Obsidian Archives/Anexo/Python.md",
+    "Obsidian Archives/Conocimiento/Html/Elementos Básicos.md",
+    "Obsidian Archives/Exercices - Projects/HTML/Problema - Crear una Página de Perfil/Inicio - Crear una Página de Perfil.md",
+    "Obsidian Archives/Exercices - Projects/HTML/Problema - Crear una Página de Perfil/Perfil Photo.jpg",
+    "Obsidian Archives/Material/Material - Python/ErrorTuplas.png",
+    "Obsidian Archives/Material/Material - Python/ListasFunciones.png",
+    "Obsidian Archives/Material/Material - Python/ForOutput.png",
+    "Obsidian Archives/Material/Material - Python/ForDesempaquetar.png",
+    "Obsidian Archives/Material/Material - Blender/sistema ejes.png",
+    "Obsidian Archives/Material/Material - Blender/barra de menu.png",
+    "Obsidian Archives/Material/Material - Blender/barra de tareas.png",
+    "Obsidian Archives/Material/Material - Blender",
+    "Obsidian Archives/Material/Python/Untitled",
+    "Obsidian Archives/Material/Material - Python",
+    "Obsidian Archives/Material/grumpy2.png",
+    "Obsidian Archives/Material/grumpy.png",
+    "Obsidian Archives/Anexo/Html.md",
+    "Obsidian Archives/Exercices - Projects/Python/Problema -.md",
     "Obsidian Archives/Conocimiento/Html/Concepto Basicos.md",
-    "Obsidian Archives/Conocimiento/Html/Strong.md",
-    "Obsidian Archives/Conocimiento/Python/Control de flujo/Sentencias condicionales/Comparaciones.md",
-    "Obsidian Archives/Conocimiento/Python/Excepciones",
-    "Obsidian Archives/Conocimiento/Python/Control de flujo/Control de flujo complementario",
-    "Obsidian Archives/Conocimiento/Python/Control de flujo/Sentencias condicionales/If, Elif y Else.md",
-    "Obsidian Archives/Conocimiento/Python/Control de flujo/Bucles/While.md",
+    "Obsidian Archives/Exercices - Projects/HTML/Problema - Crear una Página de Perfil",
+    "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
+    "Obsidian Archives/Conocimiento/Python/Programación orientada a objetos/Metodos.md",
+    "Obsidian Archives/Exercices - Projects/Python/Problema - POO Basico.md",
+    "Obsidian Archives/Exercices - Projects/Python/Problema - Contador de Palabras.md",
+    "Obsidian Archives/Conocimiento/Python/Programación orientada a objetos/Herencia.md",
+    "Obsidian Archives/Conocimiento/Python/Programación orientada a objetos/Clases y Objetos.md",
+    "Obsidian Archives/Conocimiento/Python/Programación orientada a objetos/Basico.md",
+    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Otras Funciones.md",
+    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Definición.md",
+    "Obsidian Archives/Anexo/Blender.md",
+    "Obsidian Archives/Conocimiento/Python/Tipos de datos básicos/Variables.md",
     "Obsidian Archives/Conocimiento/Python/Tipos de datos básicos/Propiedades.md",
-    "Obsidian Archives/Conocimiento/Blender/Menu Bar/Layout.md",
+    "Obsidian Archives/Conocimiento/Blender/Basic Blender",
+    "Obsidian Archives/Anexo",
     "Untitled 1.canvas",
     "Untitled.canvas",
+    "Obsidian Archives/Conocimiento/Python/Excepciones",
+    "Obsidian Archives/Conocimiento/Python/Control de flujo complementario",
     "Obsidian Archives/Conocimiento/Python/Modulos y paquetes",
-    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Crear Funciones.md",
-    "Obsidian Archives/Conocimiento/Python/Other/Gestión de Ficheros/With open().md",
-    "Obsidian Archives/Conocimiento/Python/Control de flujo",
-    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Otras Funciones.md",
-    "Obsidian Archives/Conocimiento/Python/Estructuras de datos",
-    "Obsidian Archives/Conocimiento/Python/Tipos Datos Básicos/Untitled",
-    "Obsidian Archives/Conocimiento/Python/Tipos de datos básicos",
-    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Definición.md",
-    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Funciones Datos Extras.md",
-    "Obsidian Archives/Conocimiento/Blender/Interfaz.md",
-    "Obsidian Archives/Conocimiento/Blender/Important Keys.md",
-    "Obsidian Archives/Conocimiento/Blender/Menu Bar/UV Editing.md",
-    "Obsidian Archives/Conocimiento/Blender/Menu Bar/Shaiding.md",
-    "Obsidian Archives/Conocimiento/Blender/Menu Bar/Sculpting.md",
-    "Obsidian Archives/Conocimiento/Blender/Menu Bar/Modeling.md",
-    "Obsidian Archives/Conocimiento/BluePrints  C++/Origin.md",
-    "Obsidian Archives/Conocimiento/Python/Other/API/Librería VirusTotal Apis.md",
-    "Obsidian Archives/Material/ListasFunciones.png",
-    "Obsidian Archives/Material/tuplas.png",
-    "Obsidian Archives/Conocimiento/BluePrints  C++"
+    "Obsidian Archives/Conocimiento/Python/Control de flujo"
   ]
 }

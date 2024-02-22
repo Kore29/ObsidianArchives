@@ -3,28 +3,42 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:Python",
       "color": {
         "a": 1,
-        "rgb": 6058198
+        "rgb": 5398731
+      }
+    },
+    {
+      "query": "file:Blender",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "file:HTML",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.3628873693012124,
+  "showArrow": true,
+  "textFadeMultiplier": 0.3,
+  "nodeSizeMultiplier": 1.22291666666667,
+  "lineSizeMultiplier": 3.51979166666667,
+  "collapse-forces": true,
+  "centerStrength": 0.260416666666667,
+  "repelStrength": 11.4583333333333,
+  "linkStrength": 0.630208333333333,
+  "linkDistance": 270,
+  "scale": 0.258838656218164,
   "close": false
 }

@@ -1,3 +1,4 @@
+#FuncionesYModularidad 
 En Python, una función es un bloque de código reutilizable que realiza una tarea específica. Las funciones son utilizadas para organizar y estructurar el código, permitiendo que se pueda dividir un programa en partes más pequeñas y manejables. Esto facilita la lectura, la depuración y la reutilización del código.
 
 #### Función Simple

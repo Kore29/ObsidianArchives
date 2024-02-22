@@ -1,3 +1,4 @@
+#ExercicesPython
 Escribe un programa en Python que solicite al usuario ingresar una frase y luego cuente el número de palabras en esa frase. Una palabra se define como cualquier secuencia de caracteres separados por espacios en blanco. El programa debe imprimir el número total de palabras en la frase ingresada por el usuario.
 
 Por ejemplo:

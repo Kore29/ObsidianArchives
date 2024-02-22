@@ -1,4 +1,5 @@
-Los métodos son funciones, para no calentarse la cabeza, que puedes crear tu mismo, pero de vez en cuando para poo nos viene bien para asignarles "acciones" a estas clases.
+#ProgramaciónOrientadaAObjetos
+Los son funciones, para no calentarse la cabeza, que puedes crear tu mismo, pero de vez en cuando para poo nos viene bien para asignarles "acciones" a estas clases.
 
 Imagínate que tenemos una persona, y esa persona tiene unas cualidades, (tipo de ropa, altura, cultura, caracter...) Pero quiero que esa persona haga una acción, podemos crearla como un método. Aquí un ejemplo.
 
@@ -16,7 +17,6 @@ class Persona:
 ```
 
 Ahora que entiendes un poco el concepto de los Métodos, te preguntaras que método es `_init_` y para que sirve `self`? no?
-
 ## Métodos Especiales
 
 Ahora que entiendes un poco el concepto de los Métodos, te preguntaras que método es `_init_` y para que sirve `self`? no? El `_init_` es un constructor.

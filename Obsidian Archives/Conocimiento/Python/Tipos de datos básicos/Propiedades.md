@@ -1,3 +1,4 @@
+#TiposDeDatosBasicos
 En Python, los tipos de datos básicos son fundamentales para representar y manipular información en un programa. Estos tipos de datos proporcionan la base para realizar operaciones y almacenar valores de diferentes tipos. Los tipos de datos básicos más comunes en Python son los siguientes:
 
 1. **Enteros (int):**

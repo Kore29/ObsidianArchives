@@ -1,43 +1,95 @@
-*Los Stocks son Funciones ya hechas que vienen con Python y nos facilita mucho mas el código*
+#FuncionesYModularidad #Metodos
+## Métodos en Python
 
-Para empezar las tuplas y listas serian una función, función que se encarga de almacenar información como variables o otras listas
+### Métodos para Listas (`list`)
+
+- `append()`: Agrega un elemento al final de la lista.
+- `insert()`: Inserta un elemento en una posición específica de la lista.
+- `remove()`: Elimina el primer elemento de la lista con el valor especificado.
+- `sort()`: Ordena los elementos de la lista en su lugar.
+- `sorted()`: Devuelve una nueva lista ordenada con los elementos de la lista.
+
+### Métodos para Tuplas (`tuple`)
+
+- `count()`: Devuelve el número de veces que aparece un elemento en la tupla.
 ```python
-numeros = [4,7,1,42]
+mi_tupla = (1, 2, 2, 3, 4)
+apariciones = mi_tupla.count(2)
+print(apariciones)  # Salida: 2
 ```
 
-La función `max` sirve para encontrar sobre una lista o tupla el numero (determinado por int) mas alto
+- `index()`: Devuelve el índice de la primera aparición de un elemento en la tupla.
 ```python
-numero_mas_alto = max(numeros)
-print(numero_mas_alto)
+mi_tupla = (1, 2, 3, 4, 5)
+indice = mi_tupla.index(4)
+print(indice)  # Salida: 3
 ```
 
-En este caso, como hay una función max, también hay una función que se llama `min` y es para encontrar el numero mas pequeño
+### Métodos para Diccionarios (`dict`)
+
+- `len()`: Devuelve el número de elementos (pares clave-valor) en el diccionario.
 ```python
-numero_mas_bajo = min(numeros)
-print(numero_mas_bajo)
+mi_diccionario = {"a": 1, "b": 2, "c": 3}
+longitud = len(mi_diccionario)
+print(longitud)  # Salida: 3
 ```
 
-También hay una función donde se suman todos los valores numéricos, se llama `sum`.
+- `keys()`: Devuelve una lista de las claves del diccionario.
 ```python
-suma_total = sum(numeros)
-print(suma_total)
+mi_diccionario = {"a": 1, "b": 2, "c": 3}
+claves = mi_diccionario.keys()
+print(claves)  # Salida: dict_keys(['a', 'b', 'c'])
 ```
 
-Para redondear al decimal que tu quieras, tenemos una función llamada `round`, donde se le tienen que asignar dos valores, uno con el numero y otro con el numero de decimales.
+- `values()`: Devuelve una lista de los valores del diccionario.
 ```python
-numero_round = round(12.34512,2)
-print(numero_round)
-## 12.34
+mi_diccionario = {"a": 1, "b": 2, "c": 3}
+valores = mi_diccionario.values()
+print(valores)  # Salida: dict_values([1, 2, 3])
 ```
 
-La función `bool()` sirve para tomar un argumento y devolverte `True` si el argumento es considerado verdadero, o `False` si el argumento es considerado falso.
+- `items()`: Devuelve una lista de tuplas, donde cada tupla contiene una clave y su valor correspondiente.
 ```python
-resultado_bool = bool([9,12,True])
-print(resultado_bool)
+mi_diccionario = {"a": 1, "b": 2, "c": 3}
+items = mi_diccionario.items()
+print(items)  # Salida: dict_items([('a', 1), ('b', 2), ('c', 3)])
 ```
 
-La función `all()` en Python se utiliza para determinar si todos los elementos en un iterable son evaluados como verdaderos.
+### Métodos para Cadenas de Texto (`str`)
+
+- `upper()`: Devuelve una copia de la cadena con todos los caracteres en mayúsculas.
+- `lower()`: Devuelve una copia de la cadena con todos los caracteres en minúsculas.
+
+- `split()`: Divide la cadena en subcadenas utilizando el delimitador especificado y devuelve una lista.
 ```python
-resultado_all = all(["hola",True,[344,23]])
-print(resultado_all)
+texto = "Hola mundo"
+palabras = texto.split(' ')
+print(palabras)  # Salida: ['Hola', 'mundo']
 ```
+- `join()`: Une los elementos de una lista en una cadena utilizando el separador especificado.
+```python
+palabras = ['Hola', 'mundo']
+texto_unido = ' '.join(palabras)
+print(texto_unido)  # Salida: Hola mundo
+```
+
+### Métodos para Conjuntos (`set`)
+
+- `add()`: Agrega un elemento al conjunto.
+- `remove()`: Elimina un elemento específico del conjunto. Genera un error si el elemento no está presente.
+- `discard()`: Elimina un elemento específico del conjunto, si está presente. No genera error si el elemento no está presente.
+- `pop()`: Elimina y devuelve un elemento aleatorio del conjunto.
+
+### Métodos para Archivos (`file`)
+
+- `read()`: Lee y devuelve el contenido completo del archivo como una cadena.
+- `write()`: Escribe el contenido especificado en el archivo.
+- `seek()`: Cambia la posición del cursor de lectura/escritura dentro del archivo.
+- `close()`: Cierra el archivo.
+
+### Métodos para Números (`int`, `float`)
+
+- `abs()`: Devuelve el valor absoluto del número.
+- `round()`: Redondea el número al entero más cercano.
+- `is_integer()`: Devuelve `True` si el número es un entero, `False` si no lo es.
+- `conjugate()`: Devuelve el conjugado del número complejo.

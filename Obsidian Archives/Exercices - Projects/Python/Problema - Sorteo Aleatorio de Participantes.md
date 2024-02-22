@@ -1,3 +1,4 @@
+#ExercicesPython
 Problema: Eres el encargado de organizar un sorteo para un evento de tu universidad. Para hacerlo de manera justa y transparente, decides escribir un programa en Python que seleccione aleatoriamente a los ganadores entre los participantes inscritos. Cada participante tiene un número de identificación único, que va desde 1 hasta el número total de inscritos.
 
 Escribe un programa en Python que realice lo siguiente:
@@ -36,4 +37,4 @@ Si pusiésemos `print(ganadores)` el output seria `[1, 15, 13]` y para evitarnos
 for ganador in ganadores:
         print(ganador)
 ```
-![[Output For.png]]
+![[ForOutput.png]]
