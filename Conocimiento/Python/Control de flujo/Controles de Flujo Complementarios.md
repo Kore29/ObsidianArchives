@@ -1,4 +1,4 @@
-#ControlDeFlujo 
+#ControlDeFlujo
 Los controles de flujo complementarios son instrucciones que permiten modificar el comportamiento normal de los bucles y condicionales en Python. Estas instrucciones son `break`, `continue` y `pass`.
 #### 1.1. `break`
 
@@ -38,3 +38,27 @@ for i in range(5):
 En este ejemplo, cuando `i` es igual a 2, la instrucción `pass` no hace nada y el bucle continúa con la siguiente iteración sin imprimir nada.
 
 Estas instrucciones complementarias de control de flujo son útiles para modificar el comportamiento de los bucles y condicionales en situaciones específicas dentro del programa en Python.
+
+#### 2.1. Ejemplos
+Iterando cadena al revés. Haciendo uso de `[::-1]` se puede iterar la lista desde el último al primer elemento.
+
+```python
+texto = "Python"
+for i in texto[::-1]:
+    print(i) #n,o,h,t,y,P
+```
+
+Itera la cadena saltándose elementos. Con `[::2]` vamos tomando un elemento si y otro no.
+
+```python
+texto = "Python"
+for i in texto[::2]:
+    print(i) #P,t,o
+```
+
+Un ejemplo de `for` 
+
+```python
+print(sum(i for i in range(10)))
+# Salida: 45
+```

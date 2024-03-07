@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "cd0870a3b4604169",
+    "id": "8b830410dd0a926c",
     "type": "split",
     "children": [
       {
-        "id": "7405e530ff96df04",
+        "id": "2d199cd372bb7235",
         "type": "tabs",
         "children": [
           {
-            "id": "79f87433196da09e",
+            "id": "23c31ae1f2330d9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
+                "file": "Exercices - Projects/Python/Problema - Contador de Palabras.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "80b2e996f81bae22",
+    "id": "843f646bb0fd5ac5",
     "type": "split",
     "children": [
       {
-        "id": "188fb02f73784d19",
+        "id": "112f1f883d8a988a",
         "type": "tabs",
         "children": [
           {
-            "id": "c243ee95089e0355",
+            "id": "e8a9383ca606814a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "0f50d5f64ef7f628",
+            "id": "afe55bf10200cc80",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "47b3453b97f94f98",
+            "id": "f99396a320aa3f11",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 299.5
   },
   "right": {
-    "id": "36c282cfdcfa1a5c",
+    "id": "f45923cbe6567528",
     "type": "split",
     "children": [
       {
-        "id": "70d84350bd6949aa",
+        "id": "a1cdeda0d7808faa",
         "type": "tabs",
         "children": [
           {
-            "id": "53d4b423c25369a8",
+            "id": "e3f560c35b06bfb2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
+                "file": "Exercices - Projects/Python/Problema - Contador de Palabras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "e38c3cca0463eeef",
+            "id": "0928b7182ae70f63",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
+                "file": "Exercices - Projects/Python/Problema - Contador de Palabras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d737cb4022c22f98",
+            "id": "1f8542ba8d2c1bf5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,82 +120,92 @@
             }
           },
           {
-            "id": "4a091230234ac0d6",
+            "id": "c37f674b52133af8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Archives/Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md"
+                "file": "Exercices - Projects/Python/Problema - Contador de Palabras.md"
+              }
+            }
+          },
+          {
+            "id": "04a8f3ab0cf02556",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "79f87433196da09e",
+  "active": "23c31ae1f2330d9e",
   "lastOpenFiles": [
-    "Obsidian Archives/Exercices - Projects/Python/Problema - Sorteo Aleatorio de Participantes.md",
-    "Obsidian Archives/Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
-    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Stock.md",
-    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Funciones Datos Extras.md",
-    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Crear Funciones.md",
-    "Obsidian Archives/Conocimiento/Python/Control de flujo/Sentencias condicionales.md",
-    "Obsidian Archives/Conocimiento/Python/Control de flujo/Controles de Flujo Complementarios.md",
-    "Obsidian Archives/Conocimiento/Python/Control de flujo/Bucles.md",
-    "Obsidian Archives/Anexo/Python.md",
-    "Obsidian Archives/Conocimiento/Html/Elementos Básicos.md",
-    "Obsidian Archives/Exercices - Projects/HTML/Problema - Crear una Página de Perfil/Inicio - Crear una Página de Perfil.md",
-    "Obsidian Archives/Exercices - Projects/HTML/Problema - Crear una Página de Perfil/Perfil Photo.jpg",
-    "Obsidian Archives/Material/Material - Python/ErrorTuplas.png",
-    "Obsidian Archives/Material/Material - Python/ListasFunciones.png",
-    "Obsidian Archives/Material/Material - Python/ForOutput.png",
-    "Obsidian Archives/Material/Material - Python/ForDesempaquetar.png",
-    "Obsidian Archives/Material/Material - Blender/sistema ejes.png",
-    "Obsidian Archives/Material/Material - Blender/barra de menu.png",
-    "Obsidian Archives/Material/Material - Blender/barra de tareas.png",
-    "Obsidian Archives/Material/Material - Blender",
-    "Obsidian Archives/Material/Python/Untitled",
-    "Obsidian Archives/Material/Material - Python",
-    "Obsidian Archives/Material/grumpy2.png",
-    "Obsidian Archives/Material/grumpy.png",
-    "Obsidian Archives/Anexo/Html.md",
-    "Obsidian Archives/Exercices - Projects/Python/Problema -.md",
-    "Obsidian Archives/Conocimiento/Html/Concepto Basicos.md",
-    "Obsidian Archives/Exercices - Projects/HTML/Problema - Crear una Página de Perfil",
-    "Obsidian Archives/Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
-    "Obsidian Archives/Conocimiento/Python/Programación orientada a objetos/Metodos.md",
-    "Obsidian Archives/Exercices - Projects/Python/Problema - POO Basico.md",
-    "Obsidian Archives/Exercices - Projects/Python/Problema - Contador de Palabras.md",
-    "Obsidian Archives/Conocimiento/Python/Programación orientada a objetos/Herencia.md",
-    "Obsidian Archives/Conocimiento/Python/Programación orientada a objetos/Clases y Objetos.md",
-    "Obsidian Archives/Conocimiento/Python/Programación orientada a objetos/Basico.md",
-    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Otras Funciones.md",
-    "Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Definición.md",
-    "Obsidian Archives/Anexo/Blender.md",
-    "Obsidian Archives/Conocimiento/Python/Tipos de datos básicos/Variables.md",
-    "Obsidian Archives/Conocimiento/Python/Tipos de datos básicos/Propiedades.md",
-    "Obsidian Archives/Conocimiento/Blender/Basic Blender",
-    "Obsidian Archives/Anexo",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Obsidian Archives/Conocimiento/Python/Excepciones",
-    "Obsidian Archives/Conocimiento/Python/Control de flujo complementario",
-    "Obsidian Archives/Conocimiento/Python/Modulos y paquetes",
-    "Obsidian Archives/Conocimiento/Python/Control de flujo"
+    "Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
+    "Exercices - Projects/Python/Problema - Contador de Palabras.md",
+    "Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
+    "Exercices - Projects/Python/Problema -.md",
+    "Exercices - Projects/Python/Problema - Sorteo Aleatorio de Participantes.md",
+    "Conocimiento/Python/Funciones y modularidad/Definición.md",
+    "Conocimiento/Python/Funciones y modularidad/Funciones Datos Extras.md",
+    "Conocimiento/Python/Funciones y modularidad/Otras Funciones.md",
+    "Conocimiento/Python/Programación orientada a objetos/Basico.md",
+    "Conocimiento/Python/Funciones y modularidad/Crear Funciones.md",
+    "Conocimiento/Python/Estructuras de datos/Datos Compuestos.md",
+    "Conocimiento/Python/Control de flujo/Sentencias condicionales.md",
+    "Conocimiento/Python/Control de flujo/Controles de Flujo Complementarios.md",
+    "Conocimiento/Python/Control de flujo/Bucles.md",
+    "Conocimiento/Python/Control de flujo/Sentencias condicionales/Comparaciones.md",
+    "Conocimiento/Python/Control de flujo/Bucles/For.md",
+    "Conocimiento/Html/Strong.md",
+    "Exercices - Projects/HTML",
+    "Exercices - Projects/Python",
+    "Material/Output For.png",
+    "Conocimiento/Python/Generico/Conceptos Básicos/Datos Compuestos.md",
+    "Conocimiento/Python/Generico/Conceptos Básicos/Variables.md",
+    "Conocimiento/Python/Gestión de Ficheros/With open().md",
+    "Conocimiento/Python/Generico/Condicionales/If, Elif y Else.md",
+    "Conocimiento/Python/Generico/Condicionales/Comparaciones.md",
+    "Conocimiento/Python/Generico/Bucles/For.md",
+    "Conocimiento/Python/Funciones/Funciones Datos Extras.md",
+    "Conocimiento/Python/Funciones/Otras Funciones.md",
+    "Conocimiento/Python/Funciones/Stock.md",
+    "Material/barra de menu.png",
+    "Material/barra de tareas.png",
+    "Exercices - Projects",
+    "Material/grumpy2.png",
+    "Material/grumpy.png",
+    "Material/ForDesempaquetar.png",
+    "Conocimiento/Python/Operadores",
+    "Conocimiento/Python/Other/Ayuda",
+    "Conocimiento/Python/Other",
+    "Material/grumpy-cat-small 1.png",
+    "Material/grumpy-cat-attribute-small.png",
+    "Conocimiento/Html",
+    "Conocimiento/a/grumpy-cat-small.png",
+    "Conocimiento/a/grumpy-cat-attribute-small.png",
+    "Conocimiento/a",
+    "Conocimiento/HTML",
+    "Conocimiento/Blender/Modifiers"
   ]
 }

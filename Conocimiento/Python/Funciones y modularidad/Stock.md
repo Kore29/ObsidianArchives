@@ -73,6 +73,20 @@ texto_unido = ' '.join(palabras)
 print(texto_unido)  # Salida: Hola mundo
 ```
 
+- `srip()`: Remover los laterales de espacio, el `lstrip` y `rstrip` sirven solo para eliminar uno de los dos lados
+```python
+txt = "     banana     "  
+x = txt.lstrip()  
+print("of all fruits", x, "is my favorite")
+```
+
+- `isdigit()`: Comprueba si la variable es texto
+```python
+txt = "50800"  
+x = txt.isdigit()
+print(x)
+```
+
 ### Métodos para Conjuntos (`set`)
 
 - `add()`: Agrega un elemento al conjunto.

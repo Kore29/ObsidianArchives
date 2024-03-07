@@ -41,8 +41,6 @@ elif:
 	print("No eres mayor de edad")
 ```
 
-
-
 ### 2. Operadores Para Condicionales.
 #### 2.1. `Operadores de Comparación
 
