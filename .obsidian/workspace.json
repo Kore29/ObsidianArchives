@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conocimiento/Python/Control de flujo/Sentencias condicionales.md",
+                "file": "Conocimiento/Python/Tipos de datos básicos/Propiedades.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ProgramaciónOrientadaAObjetos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conocimiento/Python/Control de flujo/Sentencias condicionales.md",
+                "file": "Conocimiento/Python/Tipos de datos básicos/Propiedades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conocimiento/Python/Control de flujo/Sentencias condicionales.md",
+                "file": "Conocimiento/Python/Tipos de datos básicos/Propiedades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conocimiento/Python/Control de flujo/Sentencias condicionales.md"
+                "file": "Conocimiento/Python/Tipos de datos básicos/Propiedades.md"
               }
             }
           },
@@ -160,36 +161,36 @@
   },
   "active": "3d443adb9100b1e0",
   "lastOpenFiles": [
+    "Conocimiento/Python/Programación orientada a objetos/Basico.md",
+    "Conocimiento/Python/Funciones y modularidad/Stock.md",
+    "Conocimiento/Python/Control de flujo/Range.md",
     "Conocimiento/Python/Control de flujo/Controles de Flujo Complementarios.md",
     "Conocimiento/Python/Control de flujo/Bucle For.md",
+    "Conocimiento/Python/Funciones y modularidad/Crear Funciones.md",
+    "Conocimiento/Python/Funciones y modularidad/Definición.md",
+    "Conocimiento/Python/Funciones y modularidad/Funciones Datos Extras.md",
+    "Conocimiento/Python/Funciones y modularidad/Otras Funciones.md",
+    "Conocimiento/Html/Elementos Básicos.md",
+    "Conocimiento/Html/Concepto Basicos.md",
+    "Anexo/Python.md",
+    "Anexo/Html.md",
+    "Conocimiento/Python/Tipos de datos básicos/Variables.md",
+    "Conocimiento/Python/Tipos de datos básicos/Propiedades.md",
+    "Conocimiento/Python/Tipos de datos básicos/Datos Compuestos.md",
+    "Conocimiento/Python/Control de flujo/Sentencias condicionales.md",
     "634c0aafe492e80255b3f778d50fa4cd.jpg",
     "Exercices - Projects/Python/Problema - Contador de Palabras.md",
     "Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
     "Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
     "Exercices - Projects/Python/Problema -.md",
     "Exercices - Projects/Python/Problema - Sorteo Aleatorio de Participantes.md",
-    "Conocimiento/Python/Funciones y modularidad/Definición.md",
-    "Conocimiento/Python/Funciones y modularidad/Funciones Datos Extras.md",
-    "Conocimiento/Python/Funciones y modularidad/Otras Funciones.md",
-    "Conocimiento/Python/Programación orientada a objetos/Basico.md",
-    "Conocimiento/Python/Funciones y modularidad/Crear Funciones.md",
     "Conocimiento/Python/Estructuras de datos/Datos Compuestos.md",
-    "Conocimiento/Python/Control de flujo/Sentencias condicionales.md",
     "Conocimiento/Python/Control de flujo/Bucles.md",
     "Conocimiento/Python/Control de flujo/Sentencias condicionales/Comparaciones.md",
     "Conocimiento/Python/Control de flujo/Bucles/For.md",
-    "Conocimiento/Html/Strong.md",
     "Exercices - Projects/HTML",
     "Exercices - Projects/Python",
     "Material/Output For.png",
-    "Conocimiento/Python/Generico/Conceptos Básicos/Datos Compuestos.md",
-    "Conocimiento/Python/Generico/Conceptos Básicos/Variables.md",
-    "Conocimiento/Python/Gestión de Ficheros/With open().md",
-    "Conocimiento/Python/Generico/Condicionales/If, Elif y Else.md",
-    "Conocimiento/Python/Generico/Condicionales/Comparaciones.md",
-    "Conocimiento/Python/Generico/Bucles/For.md",
-    "Conocimiento/Python/Funciones/Funciones Datos Extras.md",
-    "Conocimiento/Python/Funciones/Otras Funciones.md",
     "Material/barra de menu.png",
     "Material/barra de tareas.png",
     "Exercices - Projects",

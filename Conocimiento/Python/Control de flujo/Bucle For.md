@@ -1,17 +1,6 @@
 #ControlDeFlujo 
 #### 1.1. Recorrer `Rangos
 
-El bucle `for` se utiliza comúnmente con la función `range()` para generar una secuencia de números. La función `range()` crea una secuencia de números que puedes usar en el bucle. Aquí tienes un ejemplo:
-
-```python
-# Bucle for con range para imprimir números del 0 al 4
-for i in range(5):
-    print(i)
-```
-
-En este caso, `range(5)` genera los números 0, 1, 2, 3, y 4. El bucle `for` los recorre y los imprime uno por uno.
- Recorrer Listas y Otros Iterables:
-
 El bucle `for` es ideal para recorrer elementos en una lista u otros tipos de datos iterables:
 
 ```python

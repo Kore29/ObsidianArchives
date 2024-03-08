@@ -39,7 +39,7 @@ En este ejemplo, cuando `i` es igual a 2, la instrucción `pass` no hace nada y 
 
 Estas instrucciones complementarias de control de flujo son útiles para modificar el comportamiento de los bucles y condicionales en situaciones específicas dentro del programa en Python.
 
-#### 2.1. Ejemplos
+#### `2.1. Ejemplos
 Iterando cadena al revés. Haciendo uso de `[::-1]` se puede iterar la lista desde el último al primer elemento.
 
 ```python
