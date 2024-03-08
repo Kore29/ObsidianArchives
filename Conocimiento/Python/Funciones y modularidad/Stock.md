@@ -60,19 +60,27 @@ print(items)  # Salida: dict_items([('a', 1), ('b', 2), ('c', 3)])
 - `upper()`: Devuelve una copia de la cadena con todos los caracteres en mayúsculas.
 - `lower()`: Devuelve una copia de la cadena con todos los caracteres en minúsculas.
 
+- `strip()`: Este método devuelve una nueva cadena sin los espacios en blanco iniciales o finales.
+```python
+cadena = " Hola Mundo " 
+print(cadena.strip()) # Output: "Hola Mundo"
+```
+
 - `split()`: Divide la cadena en subcadenas utilizando el delimitador especificado y devuelve una lista.
 ```python
 texto = "Hola mundo"
 palabras = texto.split(' ')
 print(palabras)  # Salida: ['Hola', 'mundo']
 ```
-- `join()`: Une los elementos de una lista en una cadena utilizando el separador especificado.
+
+- `join()`:  (JUNTAR) Une los elementos de una lista en una cadena utilizando el separador especificado.
 ```python
 palabras = ['Hola', 'mundo']
 texto_unido = ' '.join(palabras)
 print(texto_unido)  # Salida: Hola mundo
 ```
 
+<<<<<<< Updated upstream:Conocimiento/Python/Funciones y modularidad/Stock.md
 - `srip()`: Remover los laterales de espacio, el `lstrip` y `rstrip` sirven solo para eliminar uno de los dos lados
 ```python
 txt = "     banana     "  
@@ -87,6 +95,14 @@ x = txt.isdigit()
 print(x)
 ```
 
+=======
+- `replace()` Para (REMPLAZAR) un dato str por otro
+```python
+cadena_original = "Hola mundo"
+nueva_cadena = cadena_original.replace("mundo", "amigo")
+# Salida = Hola amigo
+```
+>>>>>>> Stashed changes:Obsidian Archives/Conocimiento/Python/Funciones y modularidad/Stock.md
 ### Métodos para Conjuntos (`set`)
 
 - `add()`: Agrega un elemento al conjunto.
