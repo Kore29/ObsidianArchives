@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conocimiento/Python/Control de flujo/Range.md",
+                "file": "Conocimiento/Python/Estructura de datos/Tuplas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conocimiento/Python/Control de flujo/Range.md",
+                "file": "Conocimiento/Python/Estructura de datos/Tuplas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conocimiento/Python/Control de flujo/Range.md",
+                "file": "Conocimiento/Python/Estructura de datos/Tuplas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conocimiento/Python/Control de flujo/Range.md"
+                "file": "Conocimiento/Python/Estructura de datos/Tuplas.md"
               }
             }
           }
@@ -161,10 +161,35 @@
   },
   "active": "91029afb5a98b46b",
   "lastOpenFiles": [
-    "Conocimiento/Python/Funciones y modularidad/Stock.md",
-    "Conocimiento/Python/Funciones y modularidad/Funciones Datos Extras.md",
-    "Conocimiento/Python/Funciones y modularidad/Definición.md",
+    "Conocimiento/Python/Estructura de datos/Diccionarios.md",
+    "Conocimiento/Python/Estructura de datos/Listas.md",
+    "Conocimiento/Python/Estructura de datos/Conjuntos.md",
     "Conocimiento/Python/Funciones y modularidad/Crear Funciones.md",
+    "Conocimiento/Python/Funciones y modularidad/Stock.md",
+    "Conocimiento/Python/Estructura de datos/Tuplas.md",
+    "Conocimiento/Python/Tipos de datos básicos/Datos Compuestos.md",
+    "Conocimiento/Python/Tipos de datos básicos/Variables.md",
+    "Conocimiento/Python/Tipos de datos básicos/Propiedades.md",
+    "Anexo/Python.md",
+    "Conocimiento/Python/Modulos y paquetes",
+    "Conocimiento/Python/Untitled.md",
+    "Conocimiento/Python/Excepciones",
+    "Conocimiento/Python/Estructura de datos",
+    "Conocimiento/Python/Control de flujo/Controles de Flujo Complementarios.md",
+    "Conocimiento/Python/Funciones y modularidad/Otras Funciones.md",
+    "Conocimiento/Python/Funciones y modularidad/Funciones Datos Extras.md",
+    "Conocimiento/Python/Programación orientada a objetos/Herencia.md",
+    "Conocimiento/Python/Programación orientada a objetos/Metodos.md",
+    "Conocimiento/Python/Programación orientada a objetos/Clases y Objetos.md",
+    "Conocimiento/Python/Programación orientada a objetos/Basico.md",
+    "Conocimiento/Python/Funciones y modularidad/Definición.md",
+    "Conocimiento/Python/Control de flujo/Sentencias condicionales.md",
+    "Conocimiento/Python/Control de flujo/Range.md",
+    "Conocimiento/Python/Control de flujo/Bucle While.md",
+    "Exercices - Projects/Python/Problema - Sorteo Aleatorio de Participantes.md",
+    "Exercices - Projects/Python/Problema - Simulador de lanzamiento de dado.md",
+    "Exercices - Projects/Python/Problema - POO Basico.md",
+    "Exercices - Projects/Python/Problema - Biblioteca Universitaria.md",
     "634c0aafe492e80255b3f778d50fa4cd.jpg"
   ]
 }
